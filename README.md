@@ -6,9 +6,10 @@
 * [Documentation](http://docs.emmet.io/)
 * [CSS Abbreviations](http://docs.emmet.io/css-abbreviations/)
 * [Emmet Cheatsheet](http://docs.emmet.io/cheat-sheet/)
+* [Emmet Customization](https://docs.emmet.io/customization/snippets/)
 
 ## Emmet with Radium
-Use Emmet in your Radium styles the same way you would in a normal CSS (or preprocessed) file.
+Use Emmet in your Radium styles the same way you would in a normal CSS (or preprocessed) file. 
 
 #### Notes
 I removed the `!important` shorthand since the quote marks would break the style. In any case, `!important`s should be unnecessary as the style is directly applied to the element.

@@ -1,5 +1,5 @@
 # Radium Emmet CSS Snippets and Abbreviations
-[Emmet](http://emmet.io/)-powered CSS completions are a powerful way to optimize your front end workflow. These snippets allow the same abbreviations to output styles in js syntax that may be used in React components wrapped in Radium.
+[Emmet](http://emmet.io/)-powered CSS completions are a powerful way to optimize your front end workflow. These snippets allow the same abbreviations to output styles in camelCase syntax that may be used in React components wrapped in Radium.
 
 ## Emmet Resources
 * [Emmet.io](http://emmet.io/)
